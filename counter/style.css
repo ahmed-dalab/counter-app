@@ -58,3 +58,9 @@ button#increment:hover{
     background: green;
     color: #fff;
 }
+
+.footer {
+    width: 100%;
+    color: white;
+    text-align: center;
+}
